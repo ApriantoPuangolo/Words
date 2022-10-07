@@ -27,5 +27,5 @@
         android:clipToPadding="false"
         android:padding="16dp"
         tools:listitem="@layout/item_view" />
-//untuk menampilkan daftar kata yang berasal setelah kita mengklik daftar huruf dan juga saat mengklik kata yang ada pada tampilan maka akan langsung mengarah pada url google
+//untuk menampilkan daftar kata yang berasal setelah kita mengklik daftar huruf dan juga saat mengklik kata yang ada pada tampilan maka akan langsung mengarah pada url google//
 </FrameLayout>

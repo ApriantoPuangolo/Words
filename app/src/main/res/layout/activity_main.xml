@@ -28,5 +28,5 @@
         android:layout_height="match_parent"
         app:defaultNavHost="true"
         app:navGraph="@navigation/nav_graph"/>
-//untuk menampilkan latar belakang pada layar android dan mengarahkan navigasi pada fragmen-fragmen yang akan di tuju dan juga berfungsi sebagai host dari fragmen dan graph navigasi
+//untuk menampilkan latar belakang pada layar android dan mengarahkan navigasi pada fragmen-fragmen yang akan di tuju dan juga berfungsi sebagai host dari fragmen dan graph navigasi//
 </FrameLayout>
